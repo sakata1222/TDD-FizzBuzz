@@ -49,5 +49,15 @@ class FizzBuzzTest {
         assertThat(fizzBuzz.convert(5)).isEqualTo("Buzz");
       }
     }
+
+    @Nested
+    class Convert_returns_FizzBuzz_when_a_number_is_divisible_by_3_and_5 {
+
+      @Test
+      void convert_returns_FizzBuzz_when_15_is_specified() {
+        // execution and verification
+        assertThat(fizzBuzz.convert(15)).isEqualTo("FizzBuzz");
+      }
+    }
   }
 }
