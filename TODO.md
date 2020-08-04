@@ -1,4 +1,14 @@
+# TODO List
 
-- [ ] Output Fizz when a number is divisible by 3
-- [ ] Output Buzz when a number is divisible by 5
-- [ ] Output FizzBuzz when a number is divisible by both 3 and 5
+## Testability is high, and importance is also high
+
+- [ ] Convert a number to string
+- [ ] Convert a number to Fizz when the number is divisible by 3
+- [ ] Convert a number to Buzz when the number is divisible by 5
+- [ ] Convert a number FizzBuzz when the number is divisible by both 3 and 5
+
+## Testability is low, and importance is also low.
+
+- [ ] 1 to n
+- [ ] 1 to 100
+- [ ] Output/Print a number
