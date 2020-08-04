@@ -6,7 +6,7 @@
   - [x] Convert 1 to "1"
   - [x] Convert 2 to "2"
 
-- [ ] Convert a number to Fizz when the number is divisible by 3
+- [x] Convert a number to Fizz when the number is divisible by 3
   - [x] Convert 3 to "Fizz"
 
 - [ ] Convert a number to Buzz when the number is divisible by 5
