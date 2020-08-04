@@ -31,4 +31,10 @@ class FizzBuzzTest {
     // execution and verification
     assertThat(fizzBuzz.convert(3)).isEqualTo("Fizz");
   }
+
+  @Test
+  void convert_returns_Buzz_when_5_is_specified() {
+    // execution and verification
+    assertThat(fizzBuzz.convert(5)).isEqualTo("Buzz");
+  }
 }

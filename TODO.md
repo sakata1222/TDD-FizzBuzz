@@ -9,7 +9,9 @@
 - [x] Convert a number to Fizz when the number is divisible by 3
   - [x] Convert 3 to "Fizz"
 
-- [ ] Convert a number to Buzz when the number is divisible by 5
+- [x] Convert a number to Buzz when the number is divisible by 5
+  - [x] Convert 5 to "Buzz"
+
 - [ ] Convert a number FizzBuzz when the number is divisible by both 3 and 5
 
 ## Testability is low, and importance is also low.
