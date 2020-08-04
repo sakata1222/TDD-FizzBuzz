@@ -3,6 +3,8 @@
 ## Testability is high, and importance is also high
 
 - [ ] Convert a number to string
+  - [ ] Convert 1 to "1"
+
 - [ ] Convert a number to Fizz when the number is divisible by 3
 - [ ] Convert a number to Buzz when the number is divisible by 5
 - [ ] Convert a number FizzBuzz when the number is divisible by both 3 and 5
