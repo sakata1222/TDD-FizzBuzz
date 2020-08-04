@@ -2,8 +2,9 @@
 
 ## Testability is high, and importance is also high
 
-- [ ] Convert a number to string
+- [x] Convert a number to string
   - [x] Convert 1 to "1"
+  - [x] Convert 2 to "2"
 
 - [ ] Convert a number to Fizz when the number is divisible by 3
 - [ ] Convert a number to Buzz when the number is divisible by 5
