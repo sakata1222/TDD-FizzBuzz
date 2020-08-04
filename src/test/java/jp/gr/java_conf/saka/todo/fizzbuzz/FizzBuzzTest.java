@@ -8,8 +8,9 @@ class FizzBuzzTest {
 
   @Test
   void convert_1_to_1_as_string() {
-    FizzBuzz fizzBuzz = new FizzBuzz();
-    var actual = fizzBuzz.convert(1);
-    assertThat(actual).isEqualTo("1");
+    // prepare
+    var fizzBuzz = new FizzBuzz();
+    // execution and verification
+    assertThat(fizzBuzz.convert(1)).isEqualTo("1");
   }
 }
