@@ -28,12 +28,6 @@ class FizzBuzzTest {
         // execution and verification
         assertThat(fizzBuzz.convert(1)).isEqualTo("1");
       }
-
-      @Test
-      void convert_returns_2_as_string_when_2_is_specified() {
-        // execution and verification
-        assertThat(fizzBuzz.convert(2)).isEqualTo("2");
-      }
     }
 
     @Nested
